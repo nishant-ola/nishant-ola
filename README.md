@@ -22,13 +22,16 @@ Follow me on [Hashnote](https://www.hashnotes.app/).
    - Spanish
 - **Soft Skills**
    - Content writing
+   - Designing
 
 ## Skills I am learning
 - C
 - C++
+- Kotlin
+- Python
 
 ## Projects
-- [Instagram clone](https://www.google.com/search?sxsrf=AOaemvLHH6YfeMXC8YTVrOndy9R1fZOrTQ:1639306158175&q=404+not+found+html&spell=1&sa=X&ved=2ahUKEwiCofGpi970AhUU4zgGHfz3A_wQirwEKAB6BAgCEDE&biw=635&bih=591&dpr=1.5)
+- coming soon
 
 ## Contact me
 
